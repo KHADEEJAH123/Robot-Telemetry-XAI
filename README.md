@@ -13,10 +13,11 @@ A core focus of this project is **Explainable AI (XAI)**—using SHAP and LIME t
 ## 📂 Project Structure
 
 ```text
-├── saved_models/          # Trained models (.json, .keras) and scalers (.pkl)
-├── Assignment_Code.ipynb  # Main Jupyter Notebook with all training & analysis code
-├── Report.pdf             # Comprehensive 10-page technical report
-└── requirements.txt       # List of Python dependencies
+├── saved_models/                         # Trained models (.json, .keras) and scalers (.pkl)
+├── Datasets/                             # .csv files used in assignment
+├── Robot_Telemetry_XAI_Assignment.ipynb  # Main Jupyter Notebook with all training & analysis code
+├── AAI project report.pdf                # Comprehensive 10-page technical report
+└── requirements.txt                      # List of Python dependencies
 ```
 ---
 
